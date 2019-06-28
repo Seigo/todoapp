@@ -1,0 +1,18 @@
+{
+  "name": "todoapp",
+  "version": "0.1.0",
+  "description": "Yet another To-do App",
+  "main": "index.js",
+  "repository": "https://github.com/Seigo/todoapp",
+  "author": "Seigo",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
